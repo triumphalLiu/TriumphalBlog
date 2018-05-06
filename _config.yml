@@ -90,3 +90,8 @@ search:
   format: html
   limit: 10000
 
+# add post views
+leancloud_visitors:
+  enable: true
+  app_id: uc95BJyYdUWxyK8FT0EbXjGn-gzGzoHsz
+  app_key: tYnDbciyO7XMyFV4P5XmzSyu
